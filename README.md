@@ -7,5 +7,6 @@ Submission Checklists :
 harus menggunakan LSTM dalam arsitektur model
 3. Validation set sebesar 20% dari total dataset
 4. Model harus menggunakan model sequential 
-5. Harus menggunakan Learning Rate pada Optimizer
-6. MAE < 10%
+5. Menggunakan fungsi Tokenizer
+6. Akurasi model minimal 75% pada train set dan validation set
+7. Menggunakan layer Embedding
